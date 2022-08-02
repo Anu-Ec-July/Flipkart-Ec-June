@@ -1,1 +1,1 @@
-hello all this is DBUtlis file
+This file contains the DB related code
